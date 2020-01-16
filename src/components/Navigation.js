@@ -12,11 +12,11 @@ const Navigation = () => {
 				</div>
 				<div>
 					{/* <a href="">About</a> */}
-					<Link to="/">About</Link>
+					<Link to="/About">About</Link>
 				</div>
 				<div>
 					{/* <a href="">Contact</a> */}
-					<Link to="/">Contact</Link>
+					<Link to="/Contact">Contact</Link>
 				</div>
 			</div>
 		</div>
